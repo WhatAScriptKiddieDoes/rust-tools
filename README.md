@@ -1,2 +1,2 @@
-# RustTools
-A collection of simple offensive tools written in Rust
+# rust-tools
+A bunch of simple tools written to learn rust.
